@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/recruitment-task-ig/static/css/main.0eaba18e.chunk.css",
+    "main.js": "/recruitment-task-ig/static/js/main.14b5dff8.chunk.js",
+    "main.js.map": "/recruitment-task-ig/static/js/main.14b5dff8.chunk.js.map",
+    "runtime-main.js": "/recruitment-task-ig/static/js/runtime-main.8d378ecc.js",
+    "runtime-main.js.map": "/recruitment-task-ig/static/js/runtime-main.8d378ecc.js.map",
+    "static/css/2.11f871ab.chunk.css": "/recruitment-task-ig/static/css/2.11f871ab.chunk.css",
+    "static/js/2.836c49c2.chunk.js": "/recruitment-task-ig/static/js/2.836c49c2.chunk.js",
+    "static/js/2.836c49c2.chunk.js.map": "/recruitment-task-ig/static/js/2.836c49c2.chunk.js.map",
+    "index.html": "/recruitment-task-ig/index.html",
+    "precache-manifest.2ab5650dc7700c1d11c78aa382d5946d.js": "/recruitment-task-ig/precache-manifest.2ab5650dc7700c1d11c78aa382d5946d.js",
+    "service-worker.js": "/recruitment-task-ig/service-worker.js",
+    "static/css/2.11f871ab.chunk.css.map": "/recruitment-task-ig/static/css/2.11f871ab.chunk.css.map",
+    "static/css/main.0eaba18e.chunk.css.map": "/recruitment-task-ig/static/css/main.0eaba18e.chunk.css.map"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8d378ecc.js",
+    "static/css/2.11f871ab.chunk.css",
+    "static/js/2.836c49c2.chunk.js",
+    "static/css/main.0eaba18e.chunk.css",
+    "static/js/main.14b5dff8.chunk.js"
+  ]
+}
